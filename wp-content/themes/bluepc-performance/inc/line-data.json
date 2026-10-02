@@ -1,0 +1,171 @@
+{
+  "lines": {
+    "fire": {
+      "description": "A linha Fire combina a plataforma AMD Ryzen série 5000 com configurações voltadas aos jogos e ao uso diário. Uma base para montar seu setup com a identidade BluePC.",
+      "specs": [
+        [
+          "Plataforma AMD",
+          "Configurações com processadores AMD Ryzen série 5000 e placa-mãe A520 / AM4, conforme o modelo."
+        ],
+        [
+          "Memória",
+          "Opções de 16 GB ou 32 GB DDR4 a 3200 MHz. Confira a capacidade da configuração escolhida."
+        ],
+        [
+          "Alimentação",
+          "O material da linha apresenta fonte ATX de 500 W. Confirme a fonte e os componentes do anúncio."
+        ]
+      ],
+      "cases": [
+        [
+          "Aquário",
+          "Painel e lateral em vidro temperado, iluminação RGB e conexões frontais."
+        ],
+        [
+          "3 fans",
+          "Formato mid tower com lateral em vidro temperado e sistema de organização da fonte."
+        ]
+      ]
+    },
+    "ludic": {
+      "description": "Desempenho ao seu alcance. A linha Ludic foi desenvolvida para quem leva suas partidas a sério e procura uma configuração para jogar em alta definição.",
+      "specs": [
+        [
+          "Plataforma Intel",
+          "Configurações com chipset Intel H610 e memória DDR4. A plataforma varia conforme o modelo."
+        ],
+        [
+          "Memória",
+          "Configurações com 16 GB DDR4 a 3200 MHz. Consulte possibilidades de expansão."
+        ],
+        [
+          "Gráficos NVIDIA",
+          "Opções apresentadas na linha: GeForce RTX 3050, RTX 3060 e RTX 4060."
+        ]
+      ],
+      "cases": [
+        [
+          "Gabinetes Gamer",
+          "Modelos com painel de vidro e iluminação RGB, nas opções disponíveis para cada configuração."
+        ]
+      ]
+    },
+    "pulse": {
+      "description": "Sinta a adrenalina em cada jogada. A linha Pulse combina processadores de múltiplos núcleos e gráficos NVIDIA GeForce RTX, com recursos como DLSS e Ray Tracing nos jogos compatíveis.",
+      "specs": [
+        [
+          "Processamento",
+          "Plataformas Intel para jogos. Confirme o chipset, o soquete e o processador do modelo escolhido."
+        ],
+        [
+          "Memória",
+          "Opções de 16 GB ou 32 GB. A geração DDR e a frequência devem ser confirmadas na configuração escolhida."
+        ],
+        [
+          "Gráficos NVIDIA",
+          "Opções apresentadas: RTX 3050, 3060, 5060, 5060 Ti, 5070 e 5070 Ti, conforme o modelo."
+        ]
+      ],
+      "cases": [
+        [
+          "C902",
+          "Painel em vidro temperado, conexões USB frontais e projeto voltado a upgrades."
+        ],
+        [
+          "T02B",
+          "Frente em mesh, vidro temperado e projeto com foco em refrigeração."
+        ]
+      ]
+    },
+    "frag": {
+      "description": "Para jogadores exigentes. A linha Frag reúne configurações pensadas para suas partidas, com gráficos Radeon e desempenho para jogos, multitarefas e aplicações do dia a dia.",
+      "specs": [
+        [
+          "Plataforma Intel",
+          "Configurações com chipset H610, plataforma LGA 1700 e armazenamento M.2 NVMe ou SATA."
+        ],
+        [
+          "Memória",
+          "Configurações com 16 GB DDR4. Confirme a capacidade e as opções de expansão."
+        ],
+        [
+          "Gráficos Radeon",
+          "O material da linha inclui a Radeon RX 6600 de 8 GB. Consulte as demais opções disponíveis."
+        ]
+      ],
+      "cases": [
+        [
+          "Gabinetes Gamer",
+          "Escolha entre os gabinetes oferecidos para a configuração, com vidro temperado e opções de iluminação."
+        ]
+      ]
+    },
+    "aura": {
+      "description": "Uma presença marcante no seu setup. A linha Aura combina processadores de alta performance com gráficos NVIDIA GeForce RTX série 50, para jogos e criação de conteúdo.",
+      "specs": [
+        [
+          "Plataforma AMD",
+          "Configurações com chipset AMD B550 e processadores Ryzen AM4. Confirme o processador de cada modelo."
+        ],
+        [
+          "Memória",
+          "Opções de 16 GB ou 32 GB. A geração de memória deve corresponder à placa-mãe da configuração escolhida."
+        ],
+        [
+          "Gráficos NVIDIA",
+          "Opções apresentadas: RTX 5060 8 GB, 5060 Ti 16 GB, 5070 12 GB e 5070 Ti 16 GB."
+        ]
+      ],
+      "cases": [
+        [
+          "C902",
+          "Painel em vidro temperado, conexões USB frontais e espaço para o seu setup."
+        ],
+        [
+          "T02B",
+          "Frente em mesh e vidro temperado, com foco na circulação de ar."
+        ]
+      ]
+    }
+  },
+  "markets": {
+    "fire": {
+      "kabum": "https://www.kabum.com.br/busca/pc-gamer-bluepc-fire?page_number=2&page_size=20&facet_filters=&sort=most_searched&variant=null",
+      "mercado": "https://lista.mercadolivre.com.br/pc-gamer-bluepc-fire#D[A:pc%20gamer%20bluepc%20fire]",
+      "magalu": "https://www.magazineluiza.com.br/busca/pc+gamer+bluepc+fire/",
+      "amazon": "https://www.amazon.com.br/s?k=bluepc+fire&i=computers&rh=n%3A16339926011%2Cp_n_feature_twenty_browse-bin%3A23723987011%2Cp_6%3AAMQBLPL7K8MOW&dc&__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3K8HI6DP6LFFV&qid=1751551480&rnid=15137643011&sprefix=blue+fir%2Caps%2C196&xpid=C22IPOWC1ZdVZ&ref=sr_pg_1"
+    },
+    "ludic": {
+      "kabum": "https://www.kabum.com.br/busca/bluepc-ludic-?page_number=2&page_size=20&facet_filters=&sort=most_searched&variant=null",
+      "mercado": "https://lista.mercadolivre.com.br/informatica/pc-mesa/computadores/pc-gamer-ludic-bluepc_NoIndex_True?sb=all_mercadolibre",
+      "magalu": "https://www.magazineluiza.com.br/busca/pc+gamer+ludic+bluepc/",
+      "amazon": "https://www.amazon.com.br/s?k=bluepc+ludic&i=computers&__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=35ORUJS8P02YN&sprefix=bluepc+ludi%2Ccomputers%2C164&ref=nb_sb_noss",
+      "shopee": "https://shopee.com.br/oficial/search?keyword=ludic&shop=950046979"
+    },
+    "pulse": {},
+    "frag": {
+      "kabum": "https://www.kabum.com.br/busca/pc-gamer-bluepc-frag",
+      "mercado": "https://lista.mercadolivre.com.br/pc-gamer-bluepc-frag#D[A:pc%20gamer%20bluepc%20frag]",
+      "magalu": "https://www.magazineluiza.com.br/busca/pc+gamer+bluepc+frag/",
+      "shopee": "https://shopee.com.br/search?keyword=pc%20gamer%20bluepc%20frag"
+    },
+    "aura": {
+      "kabum": "https://www.kabum.com.br/busca/PC-Gamer-Aura-By-Bluepc",
+      "mercado": "https://lista.mercadolivre.com.br/loja/bluepc/pc-gamer-aura-bluepc_NoIndex_True#applied_filter_id%3Dofficial_store%26applied_filter_name%3DLojas+oficiais%26applied_filter_order%3D3%26applied_value_id%3D74542%26applied_value_name%3DBluePC%26applied_value_order%3D1%26applied_value_results%3D525%26is_custom%3Dfalse",
+      "shopee": "https://shopee.com.br/search?keyword=pc%20gamer%20aura%20bluepc"
+    },
+    "corporativo": {
+      "kabum": "https://www.kabum.com.br/busca/2eletro?page_number=1&page_size=20&facet_filters=&sort=most_searched&variant=null",
+      "mercado": "https://lista.mercadolivre.com.br/informatica/pc-mesa/2eletro_NoIndex_True#applied_filter_id%3Dcategory%26applied_filter_name%3DCategorias%26applied_filter_order%3D6%26applied_value_id%3DMLB430637%26applied_value_name%3DPC+de+Mesa%26applied_value_order%3D20%26applied_value_results%3D456%26is_custom%3Dfalse",
+      "magalu": "https://www.magazineluiza.com.br/busca/computadores/?filters=brand---2eletro",
+      "shopee": "https://shopee.com.br/oficial/search?facet=11060540&keyword=computadores&noCorrection=true&page=0&shop=950046979"
+    },
+    "workstation": {
+      "kabum": "https://www.kabum.com.br/busca/2eletro?page_number=1&page_size=20&facet_filters=&sort=most_searched&variant=null",
+      "mercado": "https://lista.mercadolivre.com.br/informatica/pc-mesa/2eletro_NoIndex_True#applied_filter_id%3Dcategory%26applied_filter_name%3DCategorias%26applied_filter_order%3D6%26applied_value_id%3DMLB430637%26applied_value_name%3DPC+de+Mesa%26applied_value_order%3D20%26applied_value_results%3D456%26is_custom%3Dfalse",
+      "magalu": "https://www.magazineluiza.com.br/busca/computadores/?filters=brand---2eletro",
+      "amazon": "https://www.amazon.com.br/s?k=bluepc+fire&i=computers&rh=n%3A16339926011%2Cp_n_feature_twenty_browse-bin%3A23723987011%2Cp_6%3AAMQBLPL7K8MOW&dc&__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3K8HI6DP6LFFV&qid=1751551480&rnid=15137643011&sprefix=blue+fir%2Caps%2C196&xpid=C22IPOWC1ZdVZ&ref=sr_pg_1",
+      "shopee": "https://shopee.com.br/oficial/search?facet=11060540&keyword=computadores&noCorrection=true&page=0&shop=950046979"
+    }
+  }
+}
